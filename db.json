@@ -1,0 +1,25 @@
+{
+  "products":
+  [
+      {"id":1,"name":"Bellina Antognozzii","category":"Female"},
+      {"id":2,"name":"Frasco Goolden","category":"Male"},
+      {"id":3,"name":"Cyndie Cribbins","category":"Female"},
+      {"id":4,"name":"Daven Millott","category":"Male"},
+      {"id":5,"name":"Maurine Scarlan","category":"Female"},
+      {"id":6,"name":"Annabal Andreasson","category":"Female"},
+      {"id":7,"name":"Gwenneth Arnull","category":"Female"},
+      {"id":8,"name":"Dalia Morena","category":"Female"},
+      {"id":9,"name":"Roselin Lowton","category":"Female"},
+      {"id":10,"name":"Edmund Fitchell","category":"Male"},
+      {"id":11,"name":"Damien Hardage","category":"Male"},
+      {"id":12,"name":"Abba Maudling","category":"Male"},
+      {"id":13,"name":"Angel O' Driscoll","category":"Female"},
+      {"id":14,"name":"Alys Christauffour","category":"Female"},
+      {"id":15,"name":"Remus Basnett","category":"Male"},
+      {"id":16,"name":"Fax de Clerk","category":"Male"},
+      {"id":17,"name":"Tootsie Reynoldson","category":"Female"},
+      {"id":18,"name":"Burnard Suddell","category":"Male"},
+      {"id":19,"name":"Arlin Ambrosio","category":"Male"},
+      {"id":20,"name":"Hadria Sealey","category":"Female"}
+  ]
+}
